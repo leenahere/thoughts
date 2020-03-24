@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-blog-github/static/css/main.210767da.chunk.css",
-    "main.js": "/react-blog-github/static/js/main.6b097d48.chunk.js",
-    "main.js.map": "/react-blog-github/static/js/main.6b097d48.chunk.js.map",
-    "runtime-main.js": "/react-blog-github/static/js/runtime-main.b7e97252.js",
-    "runtime-main.js.map": "/react-blog-github/static/js/runtime-main.b7e97252.js.map",
-    "static/js/2.7a4cb2c1.chunk.js": "/react-blog-github/static/js/2.7a4cb2c1.chunk.js",
-    "static/js/2.7a4cb2c1.chunk.js.map": "/react-blog-github/static/js/2.7a4cb2c1.chunk.js.map",
-    "index.html": "/react-blog-github/index.html",
-    "precache-manifest.480d0724dbca0147863bb1ec1aa40a0b.js": "/react-blog-github/precache-manifest.480d0724dbca0147863bb1ec1aa40a0b.js",
-    "service-worker.js": "/react-blog-github/service-worker.js",
-    "static/css/main.210767da.chunk.css.map": "/react-blog-github/static/css/main.210767da.chunk.css.map",
-    "static/js/2.7a4cb2c1.chunk.js.LICENSE": "/react-blog-github/static/js/2.7a4cb2c1.chunk.js.LICENSE",
-    "static/media/loader.svg": "/react-blog-github/static/media/loader.65f8709d.svg"
+    "main.css": "/thoughts/static/css/main.210767da.chunk.css",
+    "main.js": "/thoughts/static/js/main.0fe56fa4.chunk.js",
+    "main.js.map": "/thoughts/static/js/main.0fe56fa4.chunk.js.map",
+    "runtime-main.js": "/thoughts/static/js/runtime-main.1a6263b9.js",
+    "runtime-main.js.map": "/thoughts/static/js/runtime-main.1a6263b9.js.map",
+    "static/js/2.aca33bd9.chunk.js": "/thoughts/static/js/2.aca33bd9.chunk.js",
+    "static/js/2.aca33bd9.chunk.js.map": "/thoughts/static/js/2.aca33bd9.chunk.js.map",
+    "index.html": "/thoughts/index.html",
+    "precache-manifest.53d2b25603ba7a7eee53a45f63ac28ef.js": "/thoughts/precache-manifest.53d2b25603ba7a7eee53a45f63ac28ef.js",
+    "service-worker.js": "/thoughts/service-worker.js",
+    "static/css/main.210767da.chunk.css.map": "/thoughts/static/css/main.210767da.chunk.css.map",
+    "static/js/2.aca33bd9.chunk.js.LICENSE": "/thoughts/static/js/2.aca33bd9.chunk.js.LICENSE",
+    "static/media/loader.svg": "/thoughts/static/media/loader.65f8709d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7e97252.js",
-    "static/js/2.7a4cb2c1.chunk.js",
+    "static/js/runtime-main.1a6263b9.js",
+    "static/js/2.aca33bd9.chunk.js",
     "static/css/main.210767da.chunk.css",
-    "static/js/main.6b097d48.chunk.js"
+    "static/js/main.0fe56fa4.chunk.js"
   ]
 }
